@@ -42,6 +42,6 @@
 
     - name: Pull small Docker image
       docker_image:
-        name: "aliamin10/webweather"
+        name: "fareed/webweather"
         tag: "latest"
         source: pull
