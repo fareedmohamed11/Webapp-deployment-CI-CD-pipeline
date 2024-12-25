@@ -6,7 +6,7 @@ GREEN="\033[32m"
 RESET='\033[0m'
 
 #Env
-DOCKER_REGISTRY='aliamin10'
+DOCKER_REGISTRY='fareed'
 IMAGE_NAME='webweather'
 CONTAINER_NAME='weather-app'
 DOCKER_PORT='5000'
